@@ -6,7 +6,7 @@ Age calculate by Date of Birth. This is for objective -c best practices (classes
 
 # Purpose
 
-The purpose of this project is to practice classes and objects in objective c for beginners.
+The purpose of this project is to practice classes and objects in objective c.
 
 ---
 
